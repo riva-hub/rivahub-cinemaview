@@ -1,3 +1,3 @@
 {
-  "ویدیو": "https://hw5.cdn.asset.aparat.com/aparat-video/51e998dd5237e992a98ec1e4c6b6c08625033336-720p.mp4?wmsAuthSign\\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImY1OTExNDc5ZGYzNjYyNGJmMTg5ZjBkM2Y3ZTAyODM3IiwiZXhwIjoxNjE5MjYwNTg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.FP7GGF-pVd84UL_RoIEZr3nef2SD-o_9JYqsABUYgUM"
+  "ویدیو": "https://hw7.cdn.asset.aparat.com/aparat-video/4c4e6a61eaa52629aaa1469d146ea31f25353608-720p.mp4?wmsAuthSign\u003deyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImQ1NTMzMTE1MDJkYWY0Y2MyYWY1NmQwN2Y5YTMzN2E3IiwiZXhwIjoxNjE5NjIzMjUyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.uHJ5Yt8PPvM0K6A87GItj-l5IsXGqU-nxJ2PqhM3Zhs"
 }
